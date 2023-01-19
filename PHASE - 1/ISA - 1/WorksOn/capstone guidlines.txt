@@ -1,0 +1,18 @@
+LAMP Stack - linux, Apache, Mysql, PHP. 
+
+works on SAP
+
+RAJA - tools (Chart GPT, google tool)
+
+
+
+micro servies, add containes, altenative of docker, kenary and production environment  
+
+kubernatives nena. 
+
+
+EOX Mentor - 
+
+* learn to say no.
+* suversier to say 
+* no means is a bad news 
