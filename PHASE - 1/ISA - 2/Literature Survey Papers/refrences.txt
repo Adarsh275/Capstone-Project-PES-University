@@ -1,0 +1,17 @@
+*
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8030623
+
+Autonomic Vertical Elasticity of Docker Containers with ELASTICDOCKER
+
+
+* 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8070122
+
+Auto-Scaling Web Applications in Hybrid Cloud Based on Docker
+
+* 
+https://norma.ncirl.ie/5089/
+
+Autoscaling Cloud-Native Applications using Custom Controller of Kubernetes
+
+*
