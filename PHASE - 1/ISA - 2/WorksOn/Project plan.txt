@@ -1,0 +1,14 @@
+* file structure
+* zf error issue in docker composer up.
+* SRS Document 
+* present architecture.  
+
+
+We are still on non-lititih environmet. 
+
+
+AWS manage eks.
+
+https://www.cloudsigma.com/deploy-a-php-application-on-a-kubernetes-cluster-with-ubuntu-18-04/
+
+https://minikube.sigs.k8s.io/docs/start/
