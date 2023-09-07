@@ -1,0 +1,5 @@
+Resources:
+
+Istio explained: https://www.youtube.com/watch?v=16fgzklcF7Y
+
+istio kubernates setup: https://www.youtube.com/watch?v=voAyroDb6xk
