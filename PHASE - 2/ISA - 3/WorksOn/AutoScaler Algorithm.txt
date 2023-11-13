@@ -1,0 +1,15 @@
+## Algorithm 1 Autoscaling Algorithm for resource allocation. ##
+
+Input: Total_Pods, Total_CPU_Usage_Value, Total_CPU_target_value;
+Output: Total_Podsn = Total number of pod to be scheduled.
+
+Total_Pods = sum(pod0,pod1,.....Podn)); // Calculates the total number of pods running in cluster
+Size_of_cluster = Total_Pods.length;
+Total_CPU_target_value = fetch_target_CPU(); // API call for fetching the target CPU
+Total_CPU_Usage_Value = fetch current usage(); // API call for fetching the current CPU usage.
+
+if Size_of_cluster > 0 && Total_CPU_Usage_Value > (Size_of_cluster*Total_CPU_target_value) then
+   for i in Total_Pods do
+      Total_Podsn = Total_CPU_Usage_Value / Total CPU target value // Calculate the total number of pods.
+   end
+end
